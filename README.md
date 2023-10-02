@@ -129,8 +129,8 @@
   hosts: localhost
   vars:
     region: "ap-south-1"
-    access_key: "ATVJ"
-    secret_key: "OgJH7amid"
+    access_key: "access_key"
+    secret_key: "secret_key"
     project: "zomato"
     env: "prod"
   tasks:
