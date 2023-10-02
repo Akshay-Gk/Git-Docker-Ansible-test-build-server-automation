@@ -136,8 +136,8 @@
   hosts: localhost
   vars:
     region: "ap-south-1"
-    access_key: "access_key"
-    secret_key: "secret_key"
+    access_key: "your_access_key"
+    secret_key: "your_secret_key"
     project: "zomato"
     env: "prod"
   tasks:
@@ -181,8 +181,8 @@
   hosts: localhost
   vars:
     region: "ap-south-1"
-    access_key: "AVJ"
-    secret_key: "OgJ6H7amid"
+    access_key: "your_access_key"
+    secret_key: "your_secret_key"
     project: "zomato"
     env: "prod"
   tasks:
@@ -404,8 +404,8 @@
   hosts: localhost
   vars:
     region: "ap-south-1"
-    access_key: "AVJ"
-    secret_key: "OgJmid"
+    access_key: "your_access_key"
+    secret_key: "your_secret_key"
     project: "zomato"
     env: "prod"
   tasks:
